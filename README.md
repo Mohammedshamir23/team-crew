@@ -1,16 +1,4 @@
-# untitled10
+s to creatye awareness about risk factors of plastic and how to dispose those type of plastic, providing users with by scanning . Built using barcode in the cup that show what type of plastic is this and how to dispose that andgive the rewards for that.we uses for flutter for frontend design and use django for backend , the application ensures [ighlight any notable qualities like performance, scalability, or user-friendliness.
+me and my teammates vijayasarathi,lakshitha  have worked in it.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Whether you are target audience or user personal, this project offers unique selling point or standout feature. Key functionalities include list main features like scanning barcode,give impact of plastic etc. The codebase is structured to be scalable, modular, or other qualities, making it easy to contribute, maintain, and expand upon.
